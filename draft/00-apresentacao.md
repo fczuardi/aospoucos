@@ -36,7 +36,7 @@ de as coisas piorarem, seja aqui no Brasil ou no resto do mundo.
 
 Hoje ainda não é crime valorizar a privacidade, fazer compras com dinheiro vivo,
 recusar o CPF na nota, anular o voto, utilizar mensageiros com criptografia
-ponta a ponta, hospedar seu proprio blog em casa, criptografar seu proprio HD,
+ponta a ponta, hospedar seu próprio blog em casa, criptografar seu próprio HD,
 trocar o firmware do roteador e do celular por alternativas livres e sem
 vigilancia embutida trocar a BIOS do laptop ou mesmo abrir o laptop para
 consertá-lo ou desligar alguns componentes.
@@ -52,7 +52,7 @@ ter um livro de GURPS Cyberpunk em casa e contar da vez que o serviço secreto
 americano invadiu a sede da Steve Jackson Games por causa de uma BBS e confiscou
 os manuscritos desse RPG, posso ainda plantar comida, vender comida pelo preço
 que eu escolher, ter um exit node de Tor(posso? nao sei), seguir minha religião,
-estar fora do facebook, criticar urnas eletrrônicas fraudáveis e não
+estar fora do facebook, criticar urnas eletrônicas fraudáveis e não
 auditáveis, criticar biometria, criticar cadastro único, criticar impostos,
 criticar milicos, usar GNU Linux, OpenBSD, FreeBSD, TailsOS, LEDE, Signal, Wire,
 Mastodon, Matrix, Tor, Wikipedia, IPFS, OpenPGP, IRC, Bitcoin, instalar apps via
