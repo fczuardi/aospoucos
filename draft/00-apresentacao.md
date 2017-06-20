@@ -61,9 +61,9 @@ criptografia, lockpicking, programação, matemática, etc...
 
 Ou seja, eu ainda gozo de uma relativa liberdade de expressão e posso escrever
 sobre Bitcoin, sobre a história do Bitcoin, sobre as idéias embutidas no código,
-sobre o protocolo e sobre o potencial que essa tecnologia tem de mudar o mundo
-sem ser punido pelo Estado como um criminoso, um subversivo, um traidor ou um
-terrorista.
+sobre o protocolo e sobre o potencial que essa tecnologia tem de mudar o mundo.
+Tudo isso sem ser punido pelo Estado como um criminoso, um subversivo, um
+traidor ou um terrorista.
 
 Bitcoin é uma arma, uma ferramenta poderosa de proteção e auto-defesa, uma idéia
 emancipadora, incômoda e de participação 100% voluntária.
