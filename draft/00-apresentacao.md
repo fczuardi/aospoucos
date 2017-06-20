@@ -55,9 +55,9 @@ que eu escolher, ter um exit node de Tor(posso? nao sei), seguir minha religião
 estar fora do facebook, criticar urnas eletrônicas fraudáveis e não
 auditáveis, criticar biometria, criticar cadastro único, criticar impostos,
 criticar milicos, usar GNU Linux, OpenBSD, FreeBSD, TailsOS, LEDE, Signal, Wire,
-Mastodon, Matrix, Tor, Wikipedia, IPFS, OpenPGP, IRC, Bitcoin, instalar apps via
-F-Droid, fazer jailbreak em iPhone, ensinar criptografia, lockpicking,
-programação, matemática, etc... 
+Mastodon, Matrix, Tor, Wikipedia, IPFS, OpenPGP, BitTorrent, IRC, Bitcoin,
+OpenBazar,instalar apps via F-Droid, fazer jailbreak em iPhone, ensinar
+criptografia, lockpicking, programação, matemática, etc... 
 
 Ou seja, eu ainda gozo de uma relativa liberdade de expressão e posso escrever
 sobre Bitcoin, sobre a história do Bitcoin, sobre as idéias embutidas no código,
