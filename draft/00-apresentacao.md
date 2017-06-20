@@ -22,7 +22,7 @@ E nesse caso eu já te adianto que você vai quebrar a cara, mas nada do que eu 
 disser vai te fazer acreditar em mim, portanto sigamos...
 
 Existe ainda uma outra possível razão para você estar lendo ou ouvindo isso,
-talvez você esteja aqui por pura NESSECIDADE.
+talvez você esteja aqui por pura NECESSIDADE.
 
 Você sente que sua liberdade e suas posses estão ameaçadas e busca meios de se
 defender. Você precisa de privacidade, de proteção, você discorda dos ideais dos
