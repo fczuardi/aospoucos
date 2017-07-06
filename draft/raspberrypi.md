@@ -82,6 +82,10 @@ Nesse ponto já deve estar tudo ok com o cartão, ejete-o do Computador 1 e insi
 no Computador 2 (Pi), conecte o cabo de rede e ligue-o numa fonte mini USB
 tipo de celular.
 
+![2017-07-06 09 42 36](https://user-images.githubusercontent.com/7760/27911481-908a90b6-622f-11e7-837b-2ef76b8b4777.jpg)
+![2017-07-06 09 42 47](https://user-images.githubusercontent.com/7760/27911482-908f12bc-622f-11e7-86a7-b71cf5ff621d.jpg)
+![2017-07-06 09 42 54](https://user-images.githubusercontent.com/7760/27911483-90920cb0-622f-11e7-9492-23bee4b42aed.jpg)
+
 ### 7. Primeiro acesso SSH
 
 Aguarde um tempo para o Pi bootar, e volte para o Computador 1, para conectar
