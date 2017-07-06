@@ -63,7 +63,7 @@ Uma vez gravado o SD terá 2 partições, uma "boot" com filesystem FAT32 e
 a outra "root" no formato ext4 que é a do sistema. Desde Novembro de 2016
 o ssh não vem mais habilitado por padrão, e a maneira de ligar o ssh num
 sistema "headless", sem tela, é simplesmente escrever um arquivo de nome 
-``ssh``` sem extensão na raíz da partição "boot". Conforme documentado em
+```ssh``` sem extensão na raíz da partição "boot". Conforme documentado em
 https://www.raspberrypi.org/documentation/remote-access/ssh/
 
 No MacOS, ao inserir o sd no leitor apenas a partição boot será visível,
