@@ -49,6 +49,7 @@ sudo apt-get  install stterm
 
 ## fish
 ```
+sudo apt-get install fish
 fish_vi_key_bindings 
 echo "set -x TERMINAL /usr/bin/stterm" >> ~/.config/fish/config.fish
 ```
