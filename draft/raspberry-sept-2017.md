@@ -5,6 +5,34 @@ sudo apt-get dist-upgrade
 sudo apt-get update
 ```
 
+## keyboard layout, timezone, hostname
+```
+sudo raspi-config
+```
+
+## wifi
+```
+sudo iwlist wlan0 scan|less
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+ifconfig wlan0
+sudo wpa_cli reconfigure
+ifconfig wlan0
+```
+
+se nao rolar, restart
+
+```
+sudo restart
+```
+
+## another sudo user
+```
+sudo adduser <username>
+sudo visudo
+```
+
+    username     ALL=(ALL:ALL) NOPASSWD:ALL
+
 ## i3
 ```
 sudo apt-get install xserver-xorg xinit i3
